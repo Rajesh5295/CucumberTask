@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.telecom.stepdefinitions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.268 s - in com.telecom.stepdefinitions.TestRunner
